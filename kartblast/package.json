@@ -1,0 +1,16 @@
+{
+  "name": "kartblast-3d",
+  "version": "1.0.0",
+  "description": "KartBlast 3D — A Three.js kart racing game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
